@@ -11,3 +11,5 @@
 
 
 demonstração de exercicios css externo - turma T4
+
+<img src="./imagemmuitolegal.png" alt="imagem muito legal">
