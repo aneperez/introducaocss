@@ -7,9 +7,9 @@
 
 
 
-![imagem muito legal](./imagem%20muito%20legal.png)
+![imagem muito legal](./imagem%20muito%20lgael.png)
 
 
 demonstração de exercicios css externo - turma T4
 
-<img src="./imagemmuitolegal.png" alt="imagem muito legal">
+<img src="./imagem%20muito%20lgael.png" alt="imagem muito legal">
